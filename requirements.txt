@@ -1,0 +1,3 @@
+Pyrogram==2.0.106
+fuzzysearch==0.7.3
+python-dotenv==1.0.1
